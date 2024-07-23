@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohith-4
 - 👀 I’m Computer Science Student 
 - 🌱 I’m currently learning AI, Data Analytics
-- 💞️ I’m looking to collaborate on Generative AI projects
+- 💞️ I’m looking to collaborate on Generative AI, Computer Vision projects
 
 
 <!---
